@@ -1,0 +1,6 @@
+{
+    "shell_command": "./testcase1",
+    "points": 50,
+    "diff_input": "stdout",
+    "hide_expected_output": true
+}
